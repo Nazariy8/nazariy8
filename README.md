@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Nazar%20Yavorskyi&fontColor=6a18a1&fontAlign=50'>
