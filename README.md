@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     <title>Document</title>
 </head>
 <body>
-    https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Nazar%20Yavorskyi&fontColor=6a18a1&fontAlign=50
+<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Nazar%20Yavorskyi&fontColor=6a18a1&fontAlign=50'>
+    
 </body>
 </html>
