@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Nazar%20Yavorskyi&reversal=false&descAlign=0&descAlignY=21'>
+<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=430A5D&text=Hi,%20I%20am%20Nazar%20Yavorskyi&reversal=false&descAlign=0&descAlignY=21'>
     
 </body>
 </html>
